@@ -1,0 +1,52 @@
+Application form.pdf
+Big-O Algorithm Complexity Cheat Sheet.pdf
+certificates.zip
+CN_VideosLink.txt
+Coding
+Config.odt
+contestapplet.conf
+contestapplet.conf.bak
+CProgs
+C_Progs
+Database System Concepts, Sixth Edition.pdf
+DC++
+Desktop
+Dev Tools
+Documents
+Downloads
+Dropbox
+dtella
+dwhelper
+examples.desktop
+g4g
+gdb-7.9
+GeeksQuiz
+Ids
+IIIT-H
+JW
+JW~
+LAN
+master-pdf-editor_1.9.25_i386.deb
+max_brightness~
+max_brightnesy~
+max_brightnesz~
+MEGA-MASTERKEY
+MEGAsync
+mozilla-backup
+Music
+output.pdf
+PatientTracker Integrated.zip
+pdfstudio9
+Pictures
+PlayOnLinux's virtual drives
+PriceY.dat
+Public
+recoded_videos
+search.sh
+src
+sumitabahdas.pdf
+temp
+Templates
+testdisk.log
+Videos
+workspace1

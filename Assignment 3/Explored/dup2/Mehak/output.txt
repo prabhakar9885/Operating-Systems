@@ -1,0 +1,10 @@
+total 52
+-rwxrwxr-x 1 prabhakar prabhakar 13425 Sep 24 12:17 a.out
+-rwxrwxrwx 1 prabhakar prabhakar  8659 Sep 24 13:02 execvpEx1
+-rw-rw-rw- 1 prabhakar prabhakar   267 Sep 23 03:14 execvpEx1.cpp
+-rwS-wx--- 1 prabhakar prabhakar     0 Sep 24 13:02 output.txt
+-rw-rw-rw- 1 prabhakar prabhakar  2006 Sep 24 01:10 Piping_Ank.cpp
+-rw-rw-rw- 1 prabhakar prabhakar  2661 Sep 24 00:45 Piping.cpp
+-rw-rw-rw- 1 prabhakar prabhakar  2489 Sep 24 12:17 Piping_orig_2.cpp
+-rw-rw-rw- 1 prabhakar prabhakar  2624 Sep 24 01:33 Piping_orig.cpp
+-rw-rw-rw- 1 prabhakar prabhakar  1255 Sep 24 01:11 sample.cpp

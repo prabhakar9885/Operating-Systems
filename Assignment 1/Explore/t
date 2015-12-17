@@ -1,0 +1,74 @@
+#include <sys/types.h>
+#include <stdlib.h>
+#include "string.h"
+#include <stdio.h>
+
+#include <unistd.h>
+#include <fcntl.h>
+#include <sys/stat.h>
+	int numberOfBytes;
+	int startingOffset;
+{
+typedef struct Line
+{
+int main(int argc, char const *argv[])
+
+}Line;
+	int linesCount = 0;
+
+	char buff[20];
+	int fd = open( argv[1] , O_RDONLY), byteOffset = 0, linesPerFile = 5;
+			nextLineStartsAt++;
+		for (int i = 0; i < 20; ++i){
+	/*while(read(fd, buff, 20)>0){
+
+				break;
+			if(linesCount == linesPerFile)
+				linesCount++;
+			if( buff[i]=='\n' )
+	Line* lines = (Line*)malloc(sizeof(Line)*125);
+
+	}*/
+		}
+
+	int bytecount = 0, i = 0;
+	int lineCount = 0;
+	int k = 0;
+			if(buff[i]=='\n'){
+			bytecount++;
+		for(int i=0; i<20; i++){
+	while(read(fd, buff, 20)>0){
+				}
+					lines[lineCount].numberOfBytes = bytecount;
+					lines[lineCount].startingOffset = -1;
+				if(lineCount==0){
+				}
+					lines[lineCount].numberOfBytes = bytecount;
+					lines[lineCount].startingOffset = lines[lineCount-1].startingOffset + lines[lineCount-1].numberOfBytes;
+				else{
+		}
+			}
+				lineCount++;
+				bytecount = 0;
+
+	char *buff2;
+
+	}
+		for (int i = j*4+4-1; i >=j*4; --i) {
+	for(int j = 0; j<=lineCount; j++){
+	buff2 = (char*) malloc( sizeof(char)* lines[0].numberOfBytes );
+
+			int len;
+			lseek(fd, lines[i].startingOffset+1, SEEK_SET );
+				i = lineCount;
+			if( i>lineCount) 
+				write(1, buff2, len);
+			if( (len=read(fd, buff2, lines[i].numberOfBytes ))>0 )
+			buff2 = (char*) calloc( lines[i].numberOfBytes, sizeof(char) );
+
+
+	}
+		}
+			//delete(buff2);
+}	return 0;
+
